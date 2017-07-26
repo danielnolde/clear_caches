@@ -1,0 +1,5 @@
+name: Clear caches
+type: module
+description: A Drupal module to provide a simple means for roles to clear caches based on a dedicated permission.
+core: 8.x
+package: Custom

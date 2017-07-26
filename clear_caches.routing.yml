@@ -1,0 +1,8 @@
+
+clear_caches.clear_caches_form:
+  path: '/clear-caches'
+  defaults:
+    _form: '\Drupal\clear_caches\Form\ClearCachesForm'
+    _title: 'Clear Caches'
+  requirements:
+    _permission: clear caches
